@@ -3,7 +3,14 @@
   "name": "PolymerDashboard",
   "private": true,
   "devDependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "gulp": "~3.9.0",
+    "gulp-insert": "~0.5.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.9.4",
+    "run-sequence": "~1.1.2"
   },
   "dependencies": {}
 }
